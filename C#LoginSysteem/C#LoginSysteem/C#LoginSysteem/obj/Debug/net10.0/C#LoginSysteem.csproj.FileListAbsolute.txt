@@ -1,0 +1,17 @@
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\bin\Debug\net10.0\C#LoginSysteem.exe
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\bin\Debug\net10.0\C#LoginSysteem.deps.json
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\bin\Debug\net10.0\C#LoginSysteem.runtimeconfig.json
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\bin\Debug\net10.0\C#LoginSysteem.dll
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\bin\Debug\net10.0\C#LoginSysteem.pdb
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\bin\Debug\net10.0\BCrypt-Net-Next.dll
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginSysteem.csproj.AssemblyReference.cache
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginSysteem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginSysteem.AssemblyInfoInputs.cache
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginSysteem.AssemblyInfo.cs
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginSysteem.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginS.B94F8DD1.Up2Date
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginSysteem.dll
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\refint\C#LoginSysteem.dll
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginSysteem.pdb
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\C#LoginSysteem.genruntimeconfig.cache
+C:\Users\jayso\Documents\C#LoginSysteem\C#LoginSysteem\C#LoginSysteem\obj\Debug\net10.0\ref\C#LoginSysteem.dll
